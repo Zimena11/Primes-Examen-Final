@@ -41,7 +41,8 @@ body{
 .panel-body p button{
     margin:10px;
 }
-´.contacto{
+.contacto
+{
     background:url(../img/background/contactus.jpg);
     background-size:cover;
 }
