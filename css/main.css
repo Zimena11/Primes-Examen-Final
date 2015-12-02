@@ -1,0 +1,43 @@
+body{
+    margin:0 auto;
+}
+.caja1 {
+    color:#FFF;
+    background: url(../img/background/hero.jpg);
+    background-size:cover;
+    height:675px;
+}
+.logo-small {
+    color:#33CCCC;
+    font-size: 50px;
+}
+.imagenes img{
+    width:95%;
+}
+.btn {
+    border-radius:0;
+}
+.city{
+    background: url(../img/background/city.jpg);
+    background-size:cover;
+    height:450px;
+}
+/*precios por la compra*/
+.precios strong{
+    font-size:30px;
+}
+.precios p{
+    margin:0;
+    padding:10%;
+}
+.precios{
+     background:#DDDDDD;
+     height:130px;
+}
+.panel-body p {
+    border-bottom: 1px solid #DDDDDD;
+    padding-bottom: 10px;
+}
+.panel-body p button{
+    margin:10px;
+}
